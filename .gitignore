@@ -1,0 +1,9 @@
+############################################################################
+# Please do not use this .gitignore to add your own content to.
+# This is for items to be ignored across all cloned versions
+#
+# If you want to ignore a file specific to your implementation, add it to
+# your .git/info/excludes file which uses the same syntax.
+############################################################################
+
+/node_modules
